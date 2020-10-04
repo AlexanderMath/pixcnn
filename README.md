@@ -14,9 +14,7 @@ Changes
 - added cifar/celeb as additional datasets to mnist. 
 - integrated with tensorboard 
 - wrote code for inpainting
-- made animation above of the generation process.  
+- made the above animation of generation process (code for animation not included).  
 - wrote test case for likelihood computations. 
 - changed hyperparameter slightly (increased nlayers and ksize)
-- simplified code and moved into a single file (except data loading). 
-
-
+- simplified code and moved into a single file (besides dataloading that also has its own file). 
