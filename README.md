@@ -1,10 +1,11 @@
-<img src="animation.gif" />
+<img src="animation.gif" width="200px" />
 
 # PixelCNN
 PixelCNN on grayscale celeb/mnist/cifar 28x28.
 ```
 python train.py --ds mnist
 python train.py --ds cifar
+python train.py --ds celeb # assumes celeb faces can be loaded from 'celeb.npz' 
 ```
 
 Code is based on <a href="https://github.com/singh-hrituraj/PixelCNN-Pytorch" target="_blank">this repository</a>.
