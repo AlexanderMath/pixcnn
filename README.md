@@ -1,6 +1,6 @@
 <img src="animation.gif" />
 
-# base.py
+# PixelCNN
 PixelCNN on grayscale celeb/mnist/cifar 28x28.
 ```
 python train.py --ds mnist
