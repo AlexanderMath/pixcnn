@@ -7,7 +7,7 @@ python train.py --ds mnist
 python train.py --ds cifar
 ```
 
-Code is based on <a href="https://github.com/singh-hrituraj/PixelCNN-Pytorch" target="_new">this repository</a>.
+Code is based on <a href="https://github.com/singh-hrituraj/PixelCNN-Pytorch" target="_blank">this repository</a>.
 
 Changes
 - uses command line arguments with argparse instead of config files
